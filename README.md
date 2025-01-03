@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charles Conley</h1>
-<h3 align="center">An experienced IT Manager</h3>
+<h3 align="center">IT Manager</h3>
 
 - 🌱 I’m currently learning **Github Play, Github Spark, Terraform and Ansible.**
 
